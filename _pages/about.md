@@ -16,7 +16,7 @@ Education
 
 - **Aug. 2023 - Jun. 2026 (Expected)** M.Sc., iDI, SIGS, Tsinghua University, Beijing, China.
 
-- **Sep. 2019 - Jun. 2023** B.Sc., School of Cyber Security, Jinan, Guangzhou, China.
+- **Sep. 2019 - Jun. 2023** B.Sc., School of Cyber Security, Jinan University, Guangzhou, China.
 
 
 Publications
