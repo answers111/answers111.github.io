@@ -19,7 +19,7 @@ Education
 - **Sep. 2019 - Jun. 2023** B.Sc., School of Cyber Security, Jinan, Guangzhou, China.
 
 
-Selected Publications
+Publications
 ======
 (\* indicates equal contribution)
 
