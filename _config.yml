@@ -12,7 +12,7 @@ title                    : "Zhaojian Yu"
 title_separator          : "-"
 name                     : &name "Zhaojian Yu"
 description              : &description "Graduate student at Tsinghua University"
-url                      : https://answers111.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://answers111.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "answers111/answers111.github.io"
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "answers111"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
