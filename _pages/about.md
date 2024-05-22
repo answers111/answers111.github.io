@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Zhaojian Yu (于兆健)"
-excerpt: "Zhaojian Yu (于兆健)"
+title: "Zhaojian Yu"
+excerpt: "Zhaojian Yu"
 author_profile: true
 redirect_from: 
   - /about/
