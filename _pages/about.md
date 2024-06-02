@@ -37,4 +37,6 @@ Experience
 <br> Working on code large language models, focusing on its alignment.
 
 
-<a href="https://clustrmaps.com/site/1bzx1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=97pgycV2-3KL6nye-CDT2LBIbIRxw2n9o4JDtVeVaig&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1bzx1" title="Visit tracker">
+  <img src="//www.clustrmaps.com/map_v2.png?d=97pgycV2-3KL6nye-CDT2LBIbIRxw2n9o4JDtVeVaig&cl=ffffff" class="centered" />
+</a>
