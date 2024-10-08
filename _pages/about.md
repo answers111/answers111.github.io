@@ -31,7 +31,7 @@ Preprint
 ======
 
 - [Arxiv 2024] [*MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction*](https://arxiv.org/abs/2410.02241) 
-<br> **Zhaojian Yu**\*, Yinghao Wu, Genesis Wang, Heming Weng
+<br> **Zhaojian Yu**, Yinghao Wu, Genesis Wang, Heming Weng
 <br> MIGA is SoTA group MoE framework for stock market prediction
 
 - [Arxiv 2024] [*OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models*](https://arxiv.org/abs/2405.12843) 
