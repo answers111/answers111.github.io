@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zhaojian Yu, currently a second-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Xiao-Ping Zhang](https://www.tbsi.edu.cn/zxp_en/main.htm). Before that, I received my bachelor's degree in Computer Science from Jinan University in Jun. 2023. My currect research interest lies in LLMs, and its application in various areas.
+Hi, I'm Zhaojian Yu, currently a second-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Xiao-Ping Zhang](https://www.tbsi.edu.cn/zxp_en/main.htm). Before that, I received my bachelor's degree in Computer Science from Jinan University in Jun. 2023. My currect research interest lies in LLMs, and its application in various areas. My email is yzj23@mails.tsinghua.edu.cn.
 
 
 Education
@@ -32,7 +32,7 @@ Preprint
 
 - [Arxiv 2024] [*MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction*](https://arxiv.org/abs/2410.02241) 
 <br> **Zhaojian Yu**, Yinghao Wu, Genesis Wang, Heming Weng
-<br> MIGA is SoTA group MoE framework for stock market prediction
+<br> MIGA is a new group MoE framework for stock market prediction.
 
 - [Arxiv 2024] [*OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models*](https://arxiv.org/abs/2405.12843) 
 <br> **Zhaojian Yu**\*, Yinghao Wu\*, Zhuotao Deng, Yansong Tang, Xiao-Ping Zhang
