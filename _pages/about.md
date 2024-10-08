@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zhaojian Yu, currently a first-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Xiao-Ping Zhang](https://www.tbsi.edu.cn/zxp_en/main.htm). Before that, I received my bachelor's degree in Computer Science from Jinan University in Jun. 2023. My currect research interest lies in LLMs, and its application in various areas.
+Hi, I'm Zhaojian Yu, currently a second-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Xiao-Ping Zhang](https://www.tbsi.edu.cn/zxp_en/main.htm). Before that, I received my bachelor's degree in Computer Science from Jinan University in Jun. 2023. My currect research interest lies in LLMs, and its application in various areas.
 
 
 Education
