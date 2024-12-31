@@ -30,9 +30,9 @@ Publications
 Preprint
 ======
 
-- [Arxiv 2024] [*MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction*](https://arxiv.org/abs/2410.02241) 
-<br> **Zhaojian Yu**, Yinghao Wu, Genesis Wang, Heming Weng
-<br> MIGA is a new group MoE framework for stock market prediction.
+- [Arxiv 2024] [*HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation*](https://arxiv.org/abs/2412.21199) 
+<br> **Zhaojian Yu**, Yilun Zhao, Arman Cohan, Xiao-Ping Zhang
+<br> We present HumanEval Pro and MBPP Pro, two expanded versions of the traditional HumanEval and MBPP benchmarks to evaluate LLMs on self-invoking code generation task. Self-invoking code generation, a new task designed to evaluate the progressive reasoning and problem-solving capabilities of LLMs. In this task, models are presented with a base problem and a related, more complex problem. They must solve the base problem and then utilize its solution to address the more complex one.
 
 - [Arxiv 2024] [*OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models*](https://arxiv.org/abs/2405.12843) 
 <br> **Zhaojian Yu**\*, Yinghao Wu\*, Zhuotao Deng, Yansong Tang, Xiao-Ping Zhang
